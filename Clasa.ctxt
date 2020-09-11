@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Clasa
+comment1.params=e
+comment1.target=void\ adaugaElev(Elev)
+comment2.params=cnp
+comment2.target=void\ eliminaElev(java.lang.String)
+comment3.params=
+comment3.target=void\ afiseazaElevi()
+comment4.params=
+comment4.target=void\ ordoneazaElevi()
+numComments=5
